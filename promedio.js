@@ -17,7 +17,7 @@ const resultado = calcularPromedio(calificaciones);
 
 console.log("Promedio obtenido:", resultado);
 
-if (resultado === 9) 
+if (resultado === 10) 
 {
     console.log("PRUEBA CORRECTA");
 } else {
